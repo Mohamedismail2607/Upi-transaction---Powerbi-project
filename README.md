@@ -39,11 +39,6 @@ Custom Visuals for advanced charting (if any used)
 📈 Sample Visuals
 Screenshots or GIFs of the report pages can be added here.
 
-📂 Data Source
-The data used is anonymized and structured for demonstration/portfolio purposes. Actual transactional data is either simulated or obtained from open sources like:
-
-NPCI UPI Reports (https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics)
-
 ✅ What You Will Learn
 Data modeling in Power BI
 
